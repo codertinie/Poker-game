@@ -15,11 +15,11 @@ To solve this problem, we came up with a web application (LIMCE.FREEDOM), where 
 
 ## PROJECT CONTRIBUTORS :
 
-<a href="https://github.com/authme-flophy">Eric Maina</a>
-<a href="https://github.com/doreenlulu">Doreen Lulu</a>
-<a href="https://github.com/iamkibeh">Immanuel Kibet</a>
-<a href="https://github.com/chelahcynthia">Cynthia Chelangat</a>
-<a href="https://github.com/codertinie">Martin Munyao</a>
+* <a href="https://github.com/authme-flophy">Eric Maina</a>
+* <a href="https://github.com/doreenlulu">Doreen Lulu</a>
+* <a href="https://github.com/iamkibeh">Immanuel Kibet</a>
+* <a href="https://github.com/chelahcynthia">Cynthia Chelangat</a>
+* <a href="https://github.com/codertinie">Martin Munyao</a>
 
 
 ## PROJECT DESCRIPTION
