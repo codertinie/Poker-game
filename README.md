@@ -2,9 +2,10 @@
 
 ## Table of contents
 * [Problem Statement](#PROBLEM-STATEMENT)
-* [Project contributors](#PROJECT-CONTRIBUTORS)
+* [Project Contributors](#PROJECT-CONTRIBUTORS)
 * [Project Description](#PROJECT-DESCRIPTION)
 * [Setting Up the project](#How-to-run-the-project)
+* [Important Links](#These-are-the-links-for-the-project)
 * [License and Copyright](#License-and-copyright)
 * [Final Remarks](#final-remarks)
 
